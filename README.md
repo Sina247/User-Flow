@@ -1,4 +1,4 @@
-# 🧑‍💻 UserFlow
+# 🧑‍💻 User Flow
 
 A responsive, modern user management system built with **Next.js 15**, **Tailwind CSS**, **Redux Toolkit**, and **Axios**. This application allows you to perform full **CRUD operations** on a user list fetched from an external API, along with pagination, user detail pages, and smooth UI interactions.
 
