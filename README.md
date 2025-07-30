@@ -1,7 +1,6 @@
 # 🧑‍💻 User Flow
 
-A responsive, modern user management system built with **Next.js**, **Tailwind CSS**, **Redux Toolkit** and **Axios**. This application allows you to perform full **CRUD operations** on a user list fetched from an external API, along with pagination, user detail pages and smooth UI interactions.
-Ideal for developers, admin panels, or teams looking to manage users in an organized and visually appealing environment.
+A responsive and modern user management system built with **Next.js**, **Tailwind CSS**, **Redux Toolkit** and **Axios**. This application allows you to perform full **CRUD operations** on a user list fetched from an external API, along with pagination, user detail pages and smooth UI interactions. Ideal for developers, admin panels and teams looking to manage users in an organized and visually appealing environment.
 
 ---
 
