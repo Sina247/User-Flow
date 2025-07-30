@@ -1,7 +1,6 @@
 # 🧑‍💻 User Flow
 
-A responsive, modern user management system built with **Next.js 15**, **Tailwind CSS**, **Redux Toolkit**, and **Axios**. This application allows you to perform full **CRUD operations** on a user list fetched from an external API, along with pagination, user detail pages, and smooth UI interactions.
-
+A responsive, modern user management system built with **Next.js**, **Tailwind CSS**, **Redux Toolkit** and **Axios**. This application allows you to perform full **CRUD operations** on a user list fetched from an external API, along with pagination, user detail pages and smooth UI interactions.
 Ideal for developers, admin panels, or teams looking to manage users in an organized and visually appealing environment.
 
 ---
@@ -10,13 +9,13 @@ Ideal for developers, admin panels, or teams looking to manage users in an organ
 
 - 👥 **User list with pagination** : Easily browse users with responsive pagination controls.
 - 🔍 **User details page** : View complete information of each user in a dedicated page.
-- ➕ **Add new users (Modal)** : Quickly add users with a clean modal interface.
-- ✏️ **Edit & Delete users** : Fully functional update and delete operations.
+- ➕ **Add new users** : Quickly add users with a clean modal interface.
+- ✏️ **Edit and Delete users** : Fully functional update and delete operations.
 - ♻️ **Reload button** : Instantly fetch the latest user data from the API.
 - ⚡ **Global state management** : Reliable data flow using Redux Toolkit.
-- 💻 **Responsive design** : Fully optimized for desktop, tablet, and mobile devices.
-- 🧑‍💻 **Modern UI with Tailwind** : Clean, minimal, and elegant interface using Tailwind CSS.
-- 🧩 **Error & Loading states** : Clear feedback during API calls or errors.
+- 💻 **Responsive design** : Fully optimized for desktop, tablet and mobile devices.
+- 🧑‍💻 **Modern UI with Tailwind** : Clean, minimal and elegant interface using Tailwind CSS.
+- 🧩 **Error and Loading states** : Clear feedback during API calls or errors.
 - 🛠️ **Unit tests included** : Key parts of the project covered by tests for reliability.
 
 ---
